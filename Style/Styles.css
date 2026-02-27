@@ -1,0 +1,22 @@
+.Boxy{
+  background-color: beige;
+  height: auto;
+  width: auto; 
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+
+  
+}
+.content_1{
+  background-color: turquoise; 
+  height: 3rem;
+  width: 58rem;
+  
+}
+.content_2{
+  background-color: turquoise;
+  height: 3rem;
+  width: 60rem;
+}
