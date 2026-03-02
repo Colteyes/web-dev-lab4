@@ -1,22 +1,77 @@
-.Boxy{
-  background-color: beige;
-  height: auto;
-  width: auto; 
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  padding: 10px;
-
-  
-}
-.content_1{
-  background-color: turquoise; 
-  height: 3rem;
-  width: 58rem;
-  
-}
-.content_2{
-  background-color: turquoise;
-  height: 3rem;
-  width: 60rem;
-}
+  .Boxy{
+    background-color: beige;
+    height: auto;
+    width: auto; 
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px; 
+  }
+  .Boxy_2{
+    background-color: beige;
+    height: auto;
+    width: auto; 
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 15px;
+  }
+  .Boxy_4{
+    background-color: beige;
+    height: 7rem;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    padding: 12px;
+  }
+  .content_1{
+    background-color: turquoise; 
+    height: 3.2rem;
+    width: 58rem;
+    
+  }
+  .content_2{
+    background-color: turquoise;
+    height: 3.2rem;
+    width: 60rem;   
+  }
+  .content_3_1{
+    background-color: turquoise;
+    height: 3.2rem;
+    width: 60rem;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+  }
+  .content_3_2{
+    background-color: turquoise;
+    height: 3.2rem;
+    width: 30rem;
+    border: 2px solid black;
+  }
+  .content_3_3{
+    background-color: turquoise;
+    height: 3.2rem;
+    width: 30rem;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+  }
+  .content_4_foot{
+    background-color: red;
+    height: 3.2rem;
+    width: 91rem;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+  }
+  .content_4{
+    background-color: brown;
+    height: 3.2rem;
+    width: 21.5505rem;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+  }
