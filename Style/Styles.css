@@ -61,8 +61,8 @@
   }
   .content_4_foot{
     background-color: red;
-    height: 3.2rem;
-    width: 91rem;
+    height: 40px;
+    width: 100000px;
     border: 2px;
     border-style: solid;
     border-color: black;
@@ -70,7 +70,7 @@
   .content_4{
     background-color: brown;
     height: 3.2rem;
-    width: 21.5505rem;
+    width: 500px;
     border: 2px;
     border-style: solid;
     border-color: black;
