@@ -28,40 +28,40 @@
   }
   .content_1{
     background-color: turquoise; 
-    height: 3.2rem;
-    width: 62rem;
+    height: 50px;
+    width: 800px;
     
   }
   .content_2{
     background-color: turquoise;
-    height: 3.5rem;
-    width: 64rem;   
+    height: 50px;
+    width: 600px;   
   }
   .content_3_1{
     background-color: turquoise;
-    height: 3.2rem;
-    width: 60rem;
+    height: 50px;
+    width: 700px;
     border: 2px;
     border-style: solid;
     border-color: black;
   }
   .content_3_2{
     background-color: turquoise;
-    height: 3.2rem;
-    width: 30rem;
+    height: 50px;
+    width: 350px;
     border: 2px solid black;
   }
   .content_3_3{
     background-color: turquoise;
-    height: 3.2rem;
-    width: 30rem;
+    height: 50px;
+    width: 350px;
     border: 2px;
     border-style: solid;
     border-color: black;
   }
   .content_4_foot{
     background-color: red;
-    height: 40px;
+    height: 50px;
     width: 100000px;
     border: 2px;
     border-style: solid;
@@ -69,7 +69,7 @@
   }
   .content_4{
     background-color: brown;
-    height: 3.2rem;
+    height: 50px;
     width: 500px;
     border: 2px;
     border-style: solid;
